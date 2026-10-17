@@ -1,0 +1,1583 @@
+{
+  "meta": {
+    "company": "Swissquote",
+    "source_url": "themen/equity-stories/quellen/21-swissquote.pdf",
+    "source_type": "Investor presentation / Equity Story",
+    "access_date": "2026-10-17",
+    "language": "en",
+    "document_format": "PDF",
+    "source_document_type": "presentation",
+    "coder": "AI-v4",
+    "coding_date": "2026-10-17",
+    "source_pdf": "themen/equity-stories/quellen/21-swissquote.pdf",
+    "source_extract": "themen/equity-stories/quellen/21-swissquote-extract.txt",
+    "ocr_extract": "themen/equity-stories/quellen/21-swissquote-ocr-extract.txt",
+    "guide": "themen/equity-stories/leitfaden/neue-coding-guidelines-extract.md",
+    "unit_count": 134,
+    "multi_coding_count": 37,
+    "multi_ge3_count": 0,
+    "residual_99_count": 3,
+    "uncertainty_count": 0,
+    "exclusion_count": 34,
+    "verbatim_qa": "passed",
+    "grouping_split_qa": "passed",
+    "rating_9_1_qa": "MSCI+Sustainalytics→9.1",
+    "calibration_notes": [
+      "2026-10-17: Swissquote-111 Financial performance → Exclude (human)",
+      "2026-10-17: Trust awards → 3.2 (Swissquote-027)",
+      "2026-10-17 fix: Trust awards → multi 2.3+3.2 (not 3.2 only)"
+    ]
+  },
+  "units": [
+    {
+      "statement": "a unique multi-asset class trading platform",
+      "location": "p.4",
+      "codes": [
+        "2.2"
+      ],
+      "note": "Split from CEO quote: Swissquote combines a unique multi-asset class trading platform with the innovative power of a fintech company based on a solid Swiss bank.",
+      "uncertainty": 0,
+      "id": "Swissquote-001"
+    },
+    {
+      "statement": "the innovative power of a fintech company",
+      "location": "p.4",
+      "codes": [
+        "5.1"
+      ],
+      "note": "Split from CEO quote (innovation as offering strength).",
+      "uncertainty": 0,
+      "id": "Swissquote-002"
+    },
+    {
+      "statement": "based on a solid Swiss bank",
+      "location": "p.4",
+      "codes": [
+        "12.1"
+      ],
+      "note": "Split from CEO quote (balance-sheet/banking solidity).",
+      "uncertainty": 0,
+      "id": "Swissquote-003"
+    },
+    {
+      "statement": "A profitably growing tech bank",
+      "location": "p.5",
+      "codes": [
+        "12.3"
+      ],
+      "note": "Headline; achieved profitable growth framing.",
+      "uncertainty": 0,
+      "id": "Swissquote-004"
+    },
+    {
+      "statement": "Swissquote combines the pedigree of being a fully regulated Swiss bank with the innovative mindset of a tech company which is engrained in our DNA.",
+      "location": "p.5",
+      "codes": [
+        "2.2",
+        "4.4"
+      ],
+      "note": "Dual: regulated Swiss-bank pedigree as differentiation (2.2); tech mindset engrained in DNA as culture (4.4).",
+      "uncertainty": 0,
+      "id": "Swissquote-005"
+    },
+    {
+      "statement": "TRUST & SECURITY",
+      "location": "p.5 (figure label)",
+      "codes": [
+        "2.2"
+      ],
+      "note": "Cycle diagram label.",
+      "uncertainty": 0,
+      "id": "Swissquote-006"
+    },
+    {
+      "statement": "A fully regulated Swiss bank",
+      "location": "p.5 (figure callout)",
+      "codes": [
+        "2.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-007"
+    },
+    {
+      "statement": "TECH LEADERSHIP & INNOVATION",
+      "location": "p.5 (figure label)",
+      "codes": [
+        "5.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-008"
+    },
+    {
+      "statement": "The innovative mindset of a tech company",
+      "location": "p.5 (figure callout)",
+      "codes": [
+        "5.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-009"
+    },
+    {
+      "statement": "MULTI-ASSET OFFER",
+      "location": "p.5 (figure label)",
+      "codes": [
+        "2.2"
+      ],
+      "note": "Platform breadth as differentiation.",
+      "uncertainty": 0,
+      "id": "Swissquote-010"
+    },
+    {
+      "statement": "Over 3 million of tradable financial products",
+      "location": "p.5 (figure callout)",
+      "codes": [
+        "2.2"
+      ],
+      "note": "Scale of offering as competitive strength.",
+      "uncertainty": 0,
+      "id": "Swissquote-011"
+    },
+    {
+      "statement": "TOP CUSTOMER EXPERIENCE",
+      "location": "p.5 (figure label)",
+      "codes": [
+        "3.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-012"
+    },
+    {
+      "statement": "Top-of-mind online trading bank in Switzerland since 2021",
+      "location": "p.5 (figure callout)",
+      "codes": [
+        "2.1",
+        "2.3"
+      ],
+      "note": "Market position + brand/top-of-mind recognition.",
+      "uncertainty": 0,
+      "id": "Swissquote-013"
+    },
+    {
+      "statement": "we have built a leading multi-asset platform with over 3 million of online tradable financial products",
+      "location": "p.5",
+      "codes": [
+        "2.1"
+      ],
+      "note": "Split from packed paragraph; market-leading multi-asset platform claim.",
+      "uncertainty": 0,
+      "id": "Swissquote-014"
+    },
+    {
+      "statement": "that provides a top-notch customer experience",
+      "location": "p.5",
+      "codes": [
+        "3.1"
+      ],
+      "note": "Split from packed paragraph.",
+      "uncertainty": 0,
+      "id": "Swissquote-015"
+    },
+    {
+      "statement": "with competitive and transparent pricing",
+      "location": "p.5",
+      "codes": [
+        "2.2"
+      ],
+      "note": "Split from packed paragraph; pricing differentiation.",
+      "uncertainty": 0,
+      "id": "Swissquote-016"
+    },
+    {
+      "statement": "resulting in a strong market position in Switzerland",
+      "location": "p.5",
+      "codes": [
+        "2.1"
+      ],
+      "note": "Split from packed paragraph.",
+      "uncertainty": 0,
+      "id": "Swissquote-017"
+    },
+    {
+      "statement": "We are now expanding it to additional geographies in order to provide more customers with access to our platform",
+      "location": "p.5",
+      "codes": [
+        "7.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-018"
+    },
+    {
+      "statement": "continue our story of profitable and sustainable growth",
+      "location": "p.5",
+      "codes": [
+        "13.1"
+      ],
+      "note": "Growth outcome ambition; 'sustainable' here = durable growth, not ESG substance.",
+      "uncertainty": 0,
+      "id": "Swissquote-019"
+    },
+    {
+      "statement": "We want to be the first bank for digital-first mass affluent traders and investors.",
+      "location": "p.6",
+      "codes": [
+        "2.1",
+        "7.3"
+      ],
+      "note": "Ambition: first-bank leadership in digital-first mass affluent segment.",
+      "uncertainty": 0,
+      "id": "Swissquote-020"
+    },
+    {
+      "statement": "We challenge the code to deliver innovative services and products that make financial opportunities accessible to ambitious, self-directed people.",
+      "location": "p.6",
+      "codes": [
+        "5.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-021"
+    },
+    {
+      "statement": "We have a strong track record of profitable growth",
+      "location": "p.7",
+      "codes": [
+        "12.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-022"
+    },
+    {
+      "statement": "Over the last few years our platform has attracted large numbers of new clients and new assets.",
+      "location": "p.7",
+      "codes": [
+        "3.4",
+        "12.3"
+      ],
+      "note": "Client/asset attraction supporting growth track record.",
+      "uncertainty": 0,
+      "id": "Swissquote-023"
+    },
+    {
+      "statement": "In benign markets, economies of scale kicked in and margin increased.",
+      "location": "p.7",
+      "codes": [
+        "1.3",
+        "12.3"
+      ],
+      "note": "Scalability mechanism + achieved margin improvement.",
+      "uncertainty": 0,
+      "id": "Swissquote-024"
+    },
+    {
+      "statement": "In less benign markets, we managed to maintain a fair margin level.",
+      "location": "p.7",
+      "codes": [
+        "10.1",
+        "12.3"
+      ],
+      "note": "Earnings resilience + maintained profitability.",
+      "uncertainty": 0,
+      "id": "Swissquote-025"
+    },
+    {
+      "statement": "Clients trust us, helped by strong capital and solid regulatory ratios",
+      "location": "p.10",
+      "codes": [
+        "12.1",
+        "3.2"
+      ],
+      "note": "Headline: capital strength supporting client trust/relationships.",
+      "uncertainty": 0,
+      "id": "Swissquote-026"
+    },
+    {
+      "statement": "2nd year in a row to be the only Swiss company recognised in the Financial Services & Investment category of \"World's Most Trustworthy Companies\" by Newsweek and Statista",
+      "location": "p.10 (OCR/slide callout)",
+      "codes": [
+        "2.3",
+        "3.2"
+      ],
+      "note": "Calibration 2026-10-17: external trust awards → multiple coding 2.3 (brand/reputation) + 3.2 (customer trust).",
+      "uncertainty": 0,
+      "id": "Swissquote-027"
+    },
+    {
+      "statement": "8th rank out of 164 listed Swiss companies in the zRating study (corporate governance rating)",
+      "location": "p.10 (OCR/slide callout)",
+      "codes": [
+        "9.3"
+      ],
+      "note": "Explicit corporate governance rating → Governance & Business Ethics (9.3), not 9.1 climate/ESG composite.",
+      "uncertainty": 0,
+      "id": "Swissquote-028"
+    },
+    {
+      "statement": "5.9 customer satisfaction with regulated operator status (scale 0.0 to 7.0)",
+      "location": "p.10 (OCR/slide callout)",
+      "codes": [
+        "3.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-029"
+    },
+    {
+      "statement": "Total equity",
+      "location": "p.10 (chart label)",
+      "codes": [
+        "12.1"
+      ],
+      "note": "Chart series label in capital-strength slide.",
+      "uncertainty": 0,
+      "id": "Swissquote-030"
+    },
+    {
+      "statement": "Leverage ratio\n7.2% / min 3.0%\n(2023 – 7.7%)",
+      "location": "p.10",
+      "codes": [
+        "12.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-031"
+    },
+    {
+      "statement": "Liquidity ratio LCR\n309% / min 100%\n(2023 – 470%)",
+      "location": "p.10",
+      "codes": [
+        "12.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-032"
+    },
+    {
+      "statement": "Funding ratio NSFR\n263% / min 100%\n(2023 – 277%)",
+      "location": "p.10",
+      "codes": [
+        "12.1"
+      ],
+      "note": "Funding/stability ratio as capitalization/funding strength.",
+      "uncertainty": 0,
+      "id": "Swissquote-033"
+    },
+    {
+      "statement": "Interest rate risk IRRBB\n3.6% / max 15%\n(2023 – 5.3%)",
+      "location": "p.10",
+      "codes": [
+        "10.4"
+      ],
+      "note": "Risk metric showing controlled interest-rate risk.",
+      "uncertainty": 0,
+      "id": "Swissquote-034"
+    },
+    {
+      "statement": "Our clients like our broad offering based on 3 pillars",
+      "location": "p.13",
+      "codes": [
+        "2.2",
+        "7.2"
+      ],
+      "note": "Broad multi-pillar offering as differentiation / offering breadth.",
+      "uncertainty": 0,
+      "id": "Swissquote-035"
+    },
+    {
+      "statement": "Become the most extensive and intuitive app for all trading needs.",
+      "location": "p.13 (TRADE ambition; OCR/slide)",
+      "codes": [
+        "5.1",
+        "7.2"
+      ],
+      "note": "Ambition only; product labels coded separately. Context: TRADE pillar.",
+      "uncertainty": 0,
+      "id": "Swissquote-036"
+    },
+    {
+      "statement": "SECURITIES TRADING, FOREX/CFD, CRYPTO, THEMES TRADING",
+      "location": "p.13 (TRADE product labels; OCR/slide)",
+      "codes": [
+        "7.2"
+      ],
+      "note": "Product-label cluster under TRADE; one offering-breadth unit.",
+      "uncertainty": 0,
+      "id": "Swissquote-037"
+    },
+    {
+      "statement": "Become recognised for easy accessible investment and saving solutions.",
+      "location": "p.13 (INVEST ambition; OCR/slide)",
+      "codes": [
+        "3.3",
+        "7.2"
+      ],
+      "note": "Ambition only; labels split out. Context: INVEST pillar.",
+      "uncertainty": 0,
+      "id": "Swissquote-038"
+    },
+    {
+      "statement": "PORTFOLIO MANAGEMENT",
+      "location": "p.13 (INVEST product label; OCR/slide)",
+      "codes": [
+        "7.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-039"
+    },
+    {
+      "statement": "SUSTAINABLE INVESTING",
+      "location": "p.13 (INVEST product label; OCR/slide)",
+      "codes": [
+        "9.4"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-040"
+    },
+    {
+      "statement": "SAVINGS",
+      "location": "p.13 (INVEST product label; OCR/slide)",
+      "codes": [
+        "7.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-041"
+    },
+    {
+      "statement": "Become the top-of-wallet bank of our clients, with 360° services, 365 days a year.",
+      "location": "p.13 (BANK ambition; OCR/slide)",
+      "codes": [
+        "3.2",
+        "7.2"
+      ],
+      "note": "Ambition only; product labels coded separately. Context: BANK pillar.",
+      "uncertainty": 0,
+      "id": "Swissquote-042"
+    },
+    {
+      "statement": "DEBIT CARDS, ONLINE PAYMENTS, eMORTGAGES, LOANS",
+      "location": "p.13 (BANK product labels; OCR/slide)",
+      "codes": [
+        "7.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-043"
+    },
+    {
+      "statement": "Joint venture expands Swissquote's reach and offering:",
+      "location": "p.13",
+      "codes": [
+        "8.1",
+        "7.2"
+      ],
+      "note": "JV as inorganic reach extension + offering expansion.",
+      "uncertainty": 0,
+      "id": "Swissquote-044"
+    },
+    {
+      "statement": "Yuh, our joint venture with PostFinance, for instance, continues to provide very low cost banking, saving and investing options. Its main target audience is young, mobile-first users in Switzerland.",
+      "location": "p.13",
+      "codes": [
+        "8.1",
+        "7.3"
+      ],
+      "note": "Named JV + new customer segment (young mobile-first).",
+      "uncertainty": 0,
+      "id": "Swissquote-045"
+    },
+    {
+      "statement": "Our strong client service and savvy marketing translate into…",
+      "location": "p.14",
+      "codes": [
+        "3.1"
+      ],
+      "note": "Lead-in to brand/client outcomes.",
+      "uncertainty": 0,
+      "id": "Swissquote-046"
+    },
+    {
+      "statement": "A STRONG BRAND",
+      "location": "p.14",
+      "codes": [
+        "2.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-047"
+    },
+    {
+      "statement": "swissquote.ch as the leading online source of financial information in Switzerland since 2016",
+      "location": "p.14",
+      "codes": [
+        "2.1",
+        "2.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-048"
+    },
+    {
+      "statement": "Top-of-mind online trading bank in Switzerland since 2021",
+      "location": "p.14",
+      "codes": [
+        "2.1",
+        "2.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-049"
+    },
+    {
+      "statement": "Top rating recognition as one of Switzerland's most innovative companies by Bilanz, PME and Statista",
+      "location": "p.14",
+      "codes": [
+        "5.1",
+        "2.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-050"
+    },
+    {
+      "statement": "HAPPY CLIENTS",
+      "location": "p.14",
+      "codes": [
+        "3.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-051"
+    },
+    {
+      "statement": "Positive Net Promoter Score (NPS®) of 39 in 2024 (+2 compared to last year) (favorable on a scale from -100 to +100)",
+      "location": "p.14",
+      "codes": [
+        "3.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-052"
+    },
+    {
+      "statement": "Client satisfaction score of 5.9 out of 7 (2023: 6.0) with regulated operator status",
+      "location": "p.14",
+      "codes": [
+        "3.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-053"
+    },
+    {
+      "statement": "Key long-term driver: New clients in the right segments",
+      "location": "p.15",
+      "codes": [
+        "7.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-054"
+    },
+    {
+      "statement": "Affluent and mass affluent",
+      "location": "p.15 (OUR TARGET SEGMENT)",
+      "codes": [
+        "7.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-055"
+    },
+    {
+      "statement": "Generate higher revenues per client",
+      "location": "p.15 (OUR TARGET SEGMENT)",
+      "codes": [
+        "3.4",
+        "12.3"
+      ],
+      "note": "Target-segment economics as commercial/financial strength.",
+      "uncertainty": 0,
+      "id": "Swissquote-056"
+    },
+    {
+      "statement": "Trustworthiness, confidentiality, an innovative offering and convenience are important to them",
+      "location": "p.15 (OUR TARGET SEGMENT)",
+      "codes": [
+        "3.1"
+      ],
+      "note": "Customer-need orientation for target segment.",
+      "uncertainty": 0,
+      "id": "Swissquote-057"
+    },
+    {
+      "statement": "Willing to pay competitive and transparent fees for these services (clients buy satisfaction).",
+      "location": "p.15 (OUR TARGET SEGMENT)",
+      "codes": [
+        "3.2",
+        "2.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-058"
+    },
+    {
+      "statement": "Our revenue streams are diverse",
+      "location": "p.17",
+      "codes": [
+        "1.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-059"
+    },
+    {
+      "statement": "Net revenues by asset class",
+      "location": "p.17 (chart title)",
+      "codes": [
+        "1.1"
+      ],
+      "note": "Diversification across asset classes (labels Cash/Shares/FX/etc. are chart components, not separate arguments).",
+      "uncertainty": 0,
+      "id": "Swissquote-060"
+    },
+    {
+      "statement": "Net revenues by customer domicile",
+      "location": "p.17 (chart title)",
+      "codes": [
+        "1.1"
+      ],
+      "note": "Geographic revenue diversification.",
+      "uncertainty": 0,
+      "id": "Swissquote-061"
+    },
+    {
+      "statement": "Non-transaction-based income has increased in importance",
+      "location": "p.18",
+      "codes": [
+        "1.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-062"
+    },
+    {
+      "statement": "Stable in the short term",
+      "location": "p.18 (Non-transaction-based income label)",
+      "codes": [
+        "10.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-063"
+    },
+    {
+      "statement": "Stems from different sources",
+      "location": "p.18 (Non-transaction-based income label)",
+      "codes": [
+        "1.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-064"
+    },
+    {
+      "statement": "We have a strong platform, and third parties like it",
+      "location": "p.19",
+      "codes": [
+        "2.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-065"
+    },
+    {
+      "statement": "However, our platform is attractive, and for a number of years we have had third parties using our platform, partially white labelled.",
+      "location": "p.19",
+      "codes": [
+        "2.2",
+        "7.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-066"
+    },
+    {
+      "statement": "Overall fees from B2B are slightly less transaction-dependent than the B2C business.",
+      "location": "p.19",
+      "codes": [
+        "10.2",
+        "1.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-067"
+    },
+    {
+      "statement": "We expect similar growth rates for B2B and B2C business.",
+      "location": "p.19",
+      "codes": [
+        "13.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-068"
+    },
+    {
+      "statement": "FULL CAPTURE OF REVENUES",
+      "location": "p.19 (figure label)",
+      "codes": [
+        "12.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-069"
+    },
+    {
+      "statement": "PROFIT SHARING",
+      "location": "p.19 (figure label)",
+      "codes": [
+        "1.1"
+      ],
+      "note": "B2B monetization model element.",
+      "uncertainty": 0,
+      "id": "Swissquote-070"
+    },
+    {
+      "statement": "Future growth is expected from our 'growth portfolio'",
+      "location": "p.22",
+      "codes": [
+        "13.1",
+        "7.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-071"
+    },
+    {
+      "statement": "Multiple growth opportunities",
+      "location": "p.22",
+      "codes": [
+        "7.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-072"
+    },
+    {
+      "statement": "Multi asset\nEuropean\nstrategy\nRoll-out",
+      "location": "p.22",
+      "codes": [
+        "7.1",
+        "7.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-073"
+    },
+    {
+      "statement": "SQX\nCrypto Exchange",
+      "location": "p.22",
+      "codes": [
+        "7.2",
+        "5.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-074"
+    },
+    {
+      "statement": "Yuh mobile app with over 300,000 'yuhsers'",
+      "location": "p.22",
+      "codes": [
+        "7.3",
+        "5.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-075"
+    },
+    {
+      "statement": "Further expansion of B2B/B2B2C Business",
+      "location": "p.22",
+      "codes": [
+        "7.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-076"
+    },
+    {
+      "statement": "Universal bank with full daily banking package (e.g. Invest Easy)",
+      "location": "p.22",
+      "codes": [
+        "7.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-077"
+    },
+    {
+      "statement": "Our tech DNA is reflected in our employee mix",
+      "location": "p.23",
+      "codes": [
+        "4.2",
+        "4.4"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-078"
+    },
+    {
+      "statement": "Technology\n36%",
+      "location": "p.23 (headcount label)",
+      "codes": [
+        "4.2"
+      ],
+      "note": "High technology share of headcount as talent/capability signal.",
+      "uncertainty": 0,
+      "id": "Swissquote-079"
+    },
+    {
+      "statement": "And our employees like to work with us!",
+      "location": "p.24",
+      "codes": [
+        "4.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-080"
+    },
+    {
+      "statement": "Certified Great Place to Work early 2024",
+      "location": "p.24",
+      "codes": [
+        "4.3",
+        "9.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-081"
+    },
+    {
+      "statement": "Employer Net Promoter Score\n34\n(favorable on a scale from -100 to +100)\n(2023: 14)",
+      "location": "p.24",
+      "codes": [
+        "4.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-082"
+    },
+    {
+      "statement": "Guidance 2025: expected pre-tax profit of CHF 355m",
+      "location": "p.26",
+      "codes": [
+        "13.1",
+        "13.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-083"
+    },
+    {
+      "statement": "Mid-term outlook 2028",
+      "location": "p.27",
+      "codes": [
+        "13.1"
+      ],
+      "note": "Section framing for 2028 targets.",
+      "uncertainty": 0,
+      "id": "Swissquote-084"
+    },
+    {
+      "statement": "~50K accounts opened on a yearly basis",
+      "location": "p.27",
+      "codes": [
+        "13.1",
+        "7.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-085"
+    },
+    {
+      "statement": "~CH 7 BLN / year",
+      "location": "p.27 (Net new money)",
+      "codes": [
+        "13.1"
+      ],
+      "note": "Net new money mid-term target label.",
+      "uncertainty": 0,
+      "id": "Swissquote-086"
+    },
+    {
+      "statement": "~CHF 900M",
+      "location": "p.27 (Net revenues)",
+      "codes": [
+        "13.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-087"
+    },
+    {
+      "statement": "~CHF 500M",
+      "location": "p.27 (Pre-tax profit)",
+      "codes": [
+        "13.1",
+        "13.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-088"
+    },
+    {
+      "statement": "~55%\nPre-tax profit margin assumed",
+      "location": "p.27",
+      "codes": [
+        "13.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-089"
+    },
+    {
+      "statement": "Stable non-transaction based revenues in a low-rate environment and a higher share of banking revenues in transaction based revenues.",
+      "location": "p.27",
+      "codes": [
+        "10.2",
+        "1.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-090"
+    },
+    {
+      "statement": "+33%",
+      "location": "p.28 (Net revenues 2025G→2028O)",
+      "codes": [
+        "13.1"
+      ],
+      "note": "Chart growth label net revenues to 2028 outlook.",
+      "uncertainty": 0,
+      "id": "Swissquote-091"
+    },
+    {
+      "statement": "+41%",
+      "location": "p.28 (Pre-tax profit 2025G→2028O)",
+      "codes": [
+        "13.1"
+      ],
+      "note": "Chart growth label pre-tax profit to 2028 outlook.",
+      "uncertainty": 0,
+      "id": "Swissquote-092"
+    },
+    {
+      "statement": "Thanks to solid equity position, payout ratio at 30%",
+      "location": "p.29",
+      "codes": [
+        "12.1",
+        "13.4"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-093"
+    },
+    {
+      "statement": "Capital allocation strategy: growth buffer",
+      "location": "p.30",
+      "codes": [
+        "12.1",
+        "8.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-094"
+    },
+    {
+      "statement": "As Swissquote maintains a solid capital position (23.5%), the capital exceeding this 18% internal limit is approximately CHF 230 million (\"growth buffer\").",
+      "location": "p.30",
+      "codes": [
+        "12.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-095"
+    },
+    {
+      "statement": "Swissquote is committed to a dividend distribution representing 30% of the net profit.",
+      "location": "p.30",
+      "codes": [
+        "13.4"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-096"
+    },
+    {
+      "statement": "Additional distributions (amount, form and timing to be determined at a later stage) may be contemplated when the \"growth buffer\" will have reached at least the double of the current size.",
+      "location": "p.30",
+      "codes": [
+        "13.4"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-097"
+    },
+    {
+      "statement": "The growth buffer could be used for selected inorganic opportunities in the coming years. The main objective would be to grow the existing business model.",
+      "location": "p.30",
+      "codes": [
+        "8.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-098"
+    },
+    {
+      "statement": "We are getting recognised for our efforts in Sustainability",
+      "location": "p.33",
+      "codes": [
+        "99"
+      ],
+      "note": "VERBATIM residual: generic recognition framing without a named rating/score or specific 9.1–9.4 substance.",
+      "uncertainty": 0,
+      "id": "Swissquote-099"
+    },
+    {
+      "statement": "Sustainalytics improved Swissquote's ESG risk rating from \"medium risk\" to \"low risk\" in the first half of 2023.",
+      "location": "p.33",
+      "codes": [
+        "9.1"
+      ],
+      "note": "NEW 9.1 clause: external ESG/sustainability rating as evidence of standing (was residual under prior packs).",
+      "uncertainty": 0,
+      "id": "Swissquote-100"
+    },
+    {
+      "statement": "MSCI stable at AA.",
+      "location": "p.33 (EXTERNAL RATINGS)",
+      "codes": [
+        "9.1"
+      ],
+      "note": "NEW 9.1 clause: MSCI ESG rating cited as sustainability standing.",
+      "uncertainty": 0,
+      "id": "Swissquote-101"
+    },
+    {
+      "statement": "zRating® ranked Swissquote 8th out of 164 Swiss listed companies in 2024. Ranked first in the financial services industry in Switzerland.",
+      "location": "p.33 (EXTERNAL RATINGS)",
+      "codes": [
+        "9.1"
+      ],
+      "note": "Cited under EXTERNAL RATINGS with MSCI/Inrate zRating® score in sustainability section → external sustainability/ESG standing (9.1).",
+      "uncertainty": 0,
+      "id": "Swissquote-102"
+    },
+    {
+      "statement": "Energy use and climate resilience",
+      "location": "p.33 (KEY TOPICS E)",
+      "codes": [
+        "9.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-103"
+    },
+    {
+      "statement": "Innovation and access to finance",
+      "location": "p.33 (KEY TOPICS E)",
+      "codes": [
+        "9.4"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-104"
+    },
+    {
+      "statement": "Business continuity and IT resilience",
+      "location": "p.33 (KEY TOPICS E)",
+      "codes": [
+        "10.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-105"
+    },
+    {
+      "statement": "Data privacy and security",
+      "location": "p.33 (KEY TOPICS E)",
+      "codes": [
+        "9.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-106"
+    },
+    {
+      "statement": "Product governance",
+      "location": "p.33 (KEY TOPICS E)",
+      "codes": [
+        "9.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-107"
+    },
+    {
+      "statement": "Customer experience",
+      "location": "p.33 (KEY TOPICS S)",
+      "codes": [
+        "3.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-108"
+    },
+    {
+      "statement": "Diversity, equity and inclusion",
+      "location": "p.33 (KEY TOPICS S)",
+      "codes": [
+        "9.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-109"
+    },
+    {
+      "statement": "Talent recruitment, development and retention",
+      "location": "p.33 (KEY TOPICS S)",
+      "codes": [
+        "9.2",
+        "4.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-110"
+    },
+    {
+      "statement": "Prudent investment approach",
+      "location": "p.33 (KEY TOPICS S)",
+      "codes": [
+        "99"
+      ],
+      "note": "VERBATIM residual: no clear 9.x/10.x fit as stated.",
+      "uncertainty": 0,
+      "id": "Swissquote-112"
+    },
+    {
+      "statement": "Compensation and benefits",
+      "location": "p.33 (KEY TOPICS S)",
+      "codes": [
+        "9.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-113"
+    },
+    {
+      "statement": "Social engagements",
+      "location": "p.33 (KEY TOPICS S)",
+      "codes": [
+        "9.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-114"
+    },
+    {
+      "statement": "Protection of human rights",
+      "location": "p.33 (KEY TOPICS S)",
+      "codes": [
+        "9.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-115"
+    },
+    {
+      "statement": "Compliance, governance and ethics",
+      "location": "p.33 (KEY TOPICS G)",
+      "codes": [
+        "9.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-116"
+    },
+    {
+      "statement": "Transparency and credibility in the market",
+      "location": "p.33 (KEY TOPICS G)",
+      "codes": [
+        "9.3",
+        "2.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-117"
+    },
+    {
+      "statement": "We will continue our story of profitable growth",
+      "location": "p.34",
+      "codes": [
+        "13.1"
+      ],
+      "note": "Summary headline (omit 'Summary:' prefix from statement).",
+      "uncertainty": 0,
+      "id": "Swissquote-118"
+    },
+    {
+      "statement": "Trusted Swiss bank (capital and liquidity)",
+      "location": "p.34",
+      "codes": [
+        "12.1",
+        "12.2"
+      ],
+      "note": "Split from packed summary card (brand coded separately).",
+      "uncertainty": 0,
+      "id": "Swissquote-119"
+    },
+    {
+      "statement": "with a strong brand",
+      "location": "p.34",
+      "codes": [
+        "2.3"
+      ],
+      "note": "Split from: Trusted Swiss bank (capital and liquidity) with a strong brand.",
+      "uncertainty": 0,
+      "id": "Swissquote-120"
+    },
+    {
+      "statement": "Tech DNA",
+      "location": "p.34",
+      "codes": [
+        "4.4"
+      ],
+      "note": "Split from Tech DNA / innovative products card.",
+      "uncertainty": 0,
+      "id": "Swissquote-121"
+    },
+    {
+      "statement": "Track record of innovative products that clients love, with more to come",
+      "location": "p.34",
+      "codes": [
+        "5.1"
+      ],
+      "note": "Split from Tech DNA card.",
+      "uncertainty": 0,
+      "id": "Swissquote-122"
+    },
+    {
+      "statement": "Leading multi-asset platform",
+      "location": "p.34",
+      "codes": [
+        "2.1"
+      ],
+      "note": "Split from packed summary card.",
+      "uncertainty": 0,
+      "id": "Swissquote-123"
+    },
+    {
+      "statement": "with top-notch customer service",
+      "location": "p.34",
+      "codes": [
+        "3.1"
+      ],
+      "note": "Split from: Leading multi-asset platform with top-notch customer service.",
+      "uncertainty": 0,
+      "id": "Swissquote-124"
+    },
+    {
+      "statement": "Convenient digital platform",
+      "location": "p.34",
+      "codes": [
+        "5.2"
+      ],
+      "note": "Split from packed summary card.",
+      "uncertainty": 0,
+      "id": "Swissquote-125"
+    },
+    {
+      "statement": "with competitive and transparent pricing",
+      "location": "p.34",
+      "codes": [
+        "2.2"
+      ],
+      "note": "Split from: Convenient digital platform with competitive and transparent pricing.",
+      "uncertainty": 0,
+      "id": "Swissquote-126"
+    },
+    {
+      "statement": "Strong growth in target segment: Affluent clients who value our offering",
+      "location": "p.34",
+      "codes": [
+        "7.3"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-127"
+    },
+    {
+      "statement": "Diverse revenue streams",
+      "location": "p.34",
+      "codes": [
+        "1.1"
+      ],
+      "note": "Split from packed summary card.",
+      "uncertainty": 0,
+      "id": "Swissquote-128"
+    },
+    {
+      "statement": "with increasing importance of non-transaction-based income",
+      "location": "p.34",
+      "codes": [
+        "1.2"
+      ],
+      "note": "Split from: Diverse revenue streams with increasing importance of non-transaction-based income.",
+      "uncertainty": 0,
+      "id": "Swissquote-129"
+    },
+    {
+      "statement": "Strong growth portfolio: focused portfolio of growth opportunities and projects",
+      "location": "p.34",
+      "codes": [
+        "7.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-130"
+    },
+    {
+      "statement": "Considering sustainability as an integral part of Swissquote's strategy",
+      "location": "p.34",
+      "codes": [
+        "99"
+      ],
+      "note": "VERBATIM residual: generic sustainability-as-strategy without rating or 9.1–9.4 substance (ratings coded on p.33 as 9.1).",
+      "uncertainty": 0,
+      "id": "Swissquote-131"
+    },
+    {
+      "statement": "Swissquote is growing in its domestic market",
+      "location": "p.36",
+      "codes": [
+        "7.1",
+        "2.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-132"
+    },
+    {
+      "statement": "Swissquote average market share is 2.1%",
+      "location": "p.36",
+      "codes": [
+        "2.1"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-133"
+    },
+    {
+      "statement": "Approximately 3% continued growth in wealth per year",
+      "location": "p.36",
+      "codes": [
+        "11.2"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-134"
+    },
+    {
+      "statement": "Evolution of addressable market",
+      "location": "p.36 (chart title)",
+      "codes": [
+        "11.2",
+        "11.4"
+      ],
+      "note": "",
+      "uncertainty": 0,
+      "id": "Swissquote-135"
+    }
+  ],
+  "exclusions": [
+    {
+      "page": "1",
+      "text": "2024 FULL YEAR RESULTS / PRESS CONFERENCE / SWISSQUOTE EQUITY STORY",
+      "reason": "Title/cover slide; organizational framing without a self-contained investment argument."
+    },
+    {
+      "page": "2",
+      "text": "01 SWISSQUOTE STORY",
+      "reason": "Section divider / navigation."
+    },
+    {
+      "page": "3",
+      "text": "STORY / 01",
+      "reason": "Empty/section placeholder; no investment argument."
+    },
+    {
+      "page": "4+",
+      "text": "Nav labels: Swissquote story / Our USP / Diversified net revenues / Innovation in our DNA / Outlook & payout strategy / Sustainability & summary / Trust & transparency",
+      "reason": "Repeated page navigation chrome; organizational (applies across content pages)."
+    },
+    {
+      "page": "4",
+      "text": "Marc Bürki, CEO",
+      "reason": "Attribution/label only; not an investment argument."
+    },
+    {
+      "page": "7",
+      "text": "Chart axis years 2019–2024 and raw numeric series without standalone textual investment claim beyond coded headings/captions",
+      "reason": "Graphics: only textual labels/captions coded."
+    },
+    {
+      "page": "8",
+      "text": "03 TRUST & TRANSPARENCY",
+      "reason": "Section divider."
+    },
+    {
+      "page": "9",
+      "text": "TRANSPARENCY / 02",
+      "reason": "Empty/section placeholder."
+    },
+    {
+      "page": "11",
+      "text": "02 OUR USP / DIVERSIFIED NET REVENUES",
+      "reason": "Section divider; substance coded on later USP/revenue pages."
+    },
+    {
+      "page": "12",
+      "text": "USP / 03",
+      "reason": "Empty/section placeholder."
+    },
+    {
+      "page": "13",
+      "text": "Pillar title labels TRADE / INVEST / BANK (alone)",
+      "reason": "Structural pillar headings only; ambitions and product labels coded as separate units."
+    },
+    {
+      "page": "15",
+      "text": "Distribution of accounts / client assets / net revenues pie chart percentages",
+      "reason": "Graphic percentages without additional textual investment claim beyond coded target-segment units."
+    },
+    {
+      "page": "15",
+      "text": "* 52% of new clients 2024 acquired in H2-2024",
+      "reason": "Timing footnote; no independent investment argument."
+    },
+    {
+      "page": "16",
+      "text": "04 NET REVENUES",
+      "reason": "Section divider."
+    },
+    {
+      "page": "17",
+      "text": "Asset-class pie slice labels (Cash; Shares; FX; Fixed income; Structured products; Crypto; Others; eFX/CFDs) and domicile % share figures",
+      "reason": "Chart component labels; diversification argument coded via chart titles / 'revenue streams are diverse'."
+    },
+    {
+      "page": "18",
+      "text": "Component lists (FX transactions and eForex; Commissions on trades; Custody and management fees; Interest income; Crypto-related revenues; Other non-transactional income)",
+      "reason": "Descriptive revenue-type components; investment arguments coded via importance/stability claims."
+    },
+    {
+      "page": "18",
+      "text": "Transaction-based income: Sentiment-driven / Dependent on market volatility / Impacted by asset valuation / Impacted by interest rates",
+      "reason": "Contrast descriptors of transaction income, not a positive investment-attractiveness argument; non-transaction stability coded separately."
+    },
+    {
+      "page": "19",
+      "text": "Our ultimate customer is always an individual investor, a family office or a corporate entity.",
+      "reason": "Descriptive customer definition without investment-attractiveness justification beyond coded platform/B2B arguments."
+    },
+    {
+      "page": "19",
+      "text": "Client profile matrix cells (Retail/Affluent/HNWI; Corporate/Family offices; Fund managers; Asset managers; Brokers/Banks)",
+      "reason": "Organizational matrix labels; B2B/platform arguments coded via bullets."
+    },
+    {
+      "page": "20",
+      "text": "04 INNOVATION IN OUR DNA / OUTLOOK & PAYOUT STRATEGY",
+      "reason": "Section divider."
+    },
+    {
+      "page": "21",
+      "text": "IN OUR DNA / 05",
+      "reason": "Empty/section placeholder."
+    },
+    {
+      "page": "23",
+      "text": "Nationalities 69; Female 32%; Part-time 11%; Average age 35; Turnover 9%; 3% temporary; non-tech headcount slices",
+      "reason": "Workforce demographics without explicit investment-strength framing (tech mix / engagement coded on p.23–24)."
+    },
+    {
+      "page": "25",
+      "text": "06 & PAYOUT STRATEGY",
+      "reason": "Section divider."
+    },
+    {
+      "page": "29",
+      "text": "EPS / DPS numeric chart series 2019–2024",
+      "reason": "Chart numerics; investment argument coded via payout-ratio headline."
+    },
+    {
+      "page": "30",
+      "text": "The minimum set by FINMA is 11.2%. The 18% threshold is an internal limit set by the Board of Directors triggering immediate attention of the latter.",
+      "reason": "Regulatory/internal-limit explanation; investment argument coded via solid capital / growth buffer."
+    },
+    {
+      "page": "31",
+      "text": "06 SUSTAINABILITY & SUMMARY",
+      "reason": "Section divider."
+    },
+    {
+      "page": "32",
+      "text": "& SUMMARY / 07",
+      "reason": "Empty/section placeholder."
+    },
+    {
+      "page": "33",
+      "text": "QUANTITATIVE DATA metric catalogue (Energy consumption; GHG scopes; FTE dedicated to technology; App rating; call-answer %; workforce composition metrics; MSCI/Inrate score fields; Capital and liquidity ratios as data fields)",
+      "reason": "ESG reporting data catalogue; KEY TOPICS and EXTERNAL RATINGS investment claims coded separately."
+    },
+    {
+      "page": "33",
+      "text": "ASSURED labels",
+      "reason": "Assurance stamps without standalone investment argument."
+    },
+    {
+      "page": "35",
+      "text": "08",
+      "reason": "Empty/section placeholder."
+    },
+    {
+      "page": "36",
+      "text": "Wealth inequality is moderate. Over 70% of wealth distributed between 10K and 1M",
+      "reason": "External market footnote without clear favorable-driver framing (growth/addressable market coded separately)."
+    },
+    {
+      "page": "36",
+      "text": "Source footnotes (Swiss National Bank; Global wealth Databook)",
+      "reason": "Citations/sources; not investment arguments."
+    },
+    {
+      "page": "37",
+      "text": "THANK YOU / office locations / investorrelations@swissquote.ch / Contact",
+      "reason": "Contact / closing slide; excluded per selection criterion."
+    },
+    {
+      "page": "33",
+      "text": "Financial performance",
+      "reason": "No investment argument — KEY TOPICS label only ('Financial performance') without claim/strength/outcome; human calibration Exclude (was 99)."
+    }
+  ]
+}
